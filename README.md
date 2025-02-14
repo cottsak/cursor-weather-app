@@ -1,0 +1,1 @@
+# cursor-weather-app
